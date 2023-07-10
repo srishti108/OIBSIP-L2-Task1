@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+    /* border: 2px solid black;
+*/
+}
+table{
+    margin: auto;
+    background: #BDBDBD;
+}
+input{
+    width:250px ;
+    height: 100px;
+    font-size: 23px;
+    border-bottom: 2px solid black;
+    text-align: right;
+}
+button{
+    width: 60px;
+    height: 60px;
+    font-size: 29px;
+    border: none;
+    background: #BDBDBD;
+}
+.box{
+    display: inline-block;
+    border: 2px solid black;
+}
